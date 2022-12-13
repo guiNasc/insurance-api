@@ -1,0 +1,3 @@
+node_modules/
+#.env - this file is not suposed to be on the repo whitin the code.
+package-lock.json
